@@ -25,6 +25,9 @@ A WeAct Studio RP2040 microcontroller converted into a stealthy USB Rubber Ducky
 **NerdMiner**
 Solo Bitcoin mining project on ESP32 "Cheap Yellow Display" hardware. Two boards running different firmware stacks, with hands-on debugging of WiFi stability, share-rejection bugs, and pool connectivity at the firmware level.
 
+**HuskyInk Xteink X4 e-paper**
+Custom firmware fork of the CrossPoint Reader project for the Xteink X4 e-paper device (ESP32-C3). Added rebranding, multilingual support, web-based file management, OTA updates, and CI/CD via GitHub Actions. Also ran a security audit against it, surfacing unauthenticated web endpoints, a path traversal bug, and reversible credential obfuscation, now tracked as open fixes.
+
 ---
 
 ### Skills
