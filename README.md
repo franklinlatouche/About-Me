@@ -1,7 +1,5 @@
 # About-Me
 
-### Hi, I'm Franklin Latouche
-
 Cyber Operations Engineering student at the University of Arizona. I focus on offensive and defensive security: pentesting, OSINT, and systems-level work in x86 assembly, C, and Python. I build labs and tools to learn how attacks and defenses actually work under the hood, not just in theory.
 
 **Currently:**
