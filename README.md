@@ -29,6 +29,6 @@ Full build-and-attack writeup for a self-hosted AD lab: domain controller setup,
 ---
 
 ### Skills
-`Penetration Testing` `OSINT` `x86 Assembly` `C` `Python` `Linux` `AWS` `Terraform` `Splunk`
+`Penetration Testing` `OSINT` `x86 Assembly` `C` `Python` `Linux` `AWS` `Terraform` `Splunk` `Prompt Engineering`
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/franklinlatouche)
