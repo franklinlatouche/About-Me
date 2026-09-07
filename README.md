@@ -17,9 +17,6 @@ Cloud-based pentesting and defensive monitoring lab on AWS. A Kali attacker box 
 **SentryLog**
 A lightweight SIEM for Linux servers. Reads log files, normalizes them into structured events, runs detection rules against those events, and produces security alerts, aimed at small-to-medium environments where a full enterprise SIEM is overkill.
 
-**Pico W Rubber Ducky**
-A WeAct Studio RP2040 microcontroller converted into a stealthy USB Rubber Ducky for payload delivery and physical-access testing.
-
 **NerdMiner**
 Solo Bitcoin mining project on ESP32 "Cheap Yellow Display" hardware. Two boards running different firmware stacks, with hands-on debugging of WiFi stability, share-rejection bugs, and pool connectivity at the firmware level.
 
